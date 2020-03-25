@@ -8,3 +8,5 @@
 
 * Item 1
 * Second Item
+* **A bold item in the list**
+* *An italic item*
